@@ -1,11 +1,11 @@
-module github.com/melbahja/goph
+module github.com/Wine93/goph
 
 go 1.13
 
 require (
 	github.com/pkg/errors v0.9.1
 	github.com/pkg/sftp v1.13.4
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/sys v0.0.0-20211031064116-611d5d643895 // indirect
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
+	golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90
+	golang.org/x/sys v0.0.0-20220906165534-d0df966e6959 // indirect
+	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035 // indirect
 )
